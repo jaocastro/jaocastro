@@ -1,5 +1,11 @@
-### Hi there 👋
+✌️ # Hi there
 
+I'm João Castro!
+Ever since I was a kid, I've been passionate about technology, especially when it came to the look and feel of applications. So I pursued a front-end career, where I saw that it was possible to develop everything imaginable, making me fall more and more in love with the area.
+
+💻 # Tech Stack
+
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 <!--
 **jaocastro/jaocastro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
